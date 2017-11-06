@@ -1,0 +1,6 @@
+projectKey=Dap
+serverUrl=http://localhost:9000
+serverVersion=6.6.0.32724
+dashboardUrl=http://localhost:9000/dashboard/index/Dap
+ceTaskId=AV-NqLK6os0GcKSLTS0K
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV-NqLK6os0GcKSLTS0K
