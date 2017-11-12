@@ -1,0 +1,11 @@
+{
+  "ServerUri": "http://sonartet.azurewebsites.net",
+  "Organization": null,
+  "ProjectKey": "FinancieraInso",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AV-yAvBG3RopWhNR9qcD",
+      "ProfileTimestamp": "2017-11-12T15:54:17-05:00"
+    }
+  }
+}
