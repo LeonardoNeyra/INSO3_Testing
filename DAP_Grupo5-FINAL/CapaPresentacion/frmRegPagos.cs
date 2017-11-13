@@ -99,7 +99,7 @@ namespace CapaPresentacion
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (this.cmbCliente.SelectedValue.ToString() == "")
+            /*if (this.cmbCliente.SelectedValue.ToString() == "")
             {
                 MessageBox.Show("Ingrese un Código de Cliente", "Pago", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
@@ -119,7 +119,7 @@ namespace CapaPresentacion
 
                 double r = Convert.ToDouble(this.txtTotalCuota.Text) + Convert.ToDouble(this.txtMora.Text);
                 this.txtPago.Text = r.ToString();
-            }
+            }*/
         }
 
         private void btnGuardar_Click(object sender, EventArgs e)
