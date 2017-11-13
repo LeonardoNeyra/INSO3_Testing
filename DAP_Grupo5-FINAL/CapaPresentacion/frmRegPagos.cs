@@ -124,7 +124,7 @@ namespace CapaPresentacion
 
         private void btnGuardar_Click(object sender, EventArgs e)
         {
-            NPago oPneg = new NPago();
+            /*NPago oPneg = new NPago();
             NCuota oCneg = new NCuota();
 
             int codigo = Convert.ToInt32(this.cmbCodigo.SelectedValue.ToString());
@@ -160,7 +160,7 @@ namespace CapaPresentacion
             }
 
             this.limpiar();
-            this.inicial(false);
+            this.inicial(false);*/
         }
 
         private void button2_Click(object sender, EventArgs e)
